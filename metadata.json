@@ -1,0 +1,6 @@
+{
+  "name": "LensVault",
+  "description": "Offline-first on-device mobile gallery OCR search engine with fast indexing, FTS5 search, and bounding box inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
